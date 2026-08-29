@@ -1,5 +1,5 @@
 """
-Extract PS4 .pkg DLC/addons
+Extracts PS4 .pkg DLC/addons from a directory.
 
 29/08/2026
 """
